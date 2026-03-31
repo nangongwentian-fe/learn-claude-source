@@ -4,6 +4,7 @@ export default defineConfig({
   title: '深入 Claude Code 源码',
   description: '从 Agent Loop 到完整架构 —— 逐层拆解 Claude Code 的设计与实现',
   lang: 'zh-CN',
+  base: '/learn-claude-source/',
 
   themeConfig: {
     nav: [
